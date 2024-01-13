@@ -23,13 +23,6 @@ body:not(.is-grabbing) .nav-folder-title:hover {
   background: radial-gradient(circle at left,#535a7e,#0e101b 100%);
 }
 
-.mk-sidebar button {
-    background: radial-gradient(circle at left,#535a7e,#0e101b 100%);
-    color: #e1e2eb;
-    box-shadow: 0px 0px 6px #a1a8d9;
-
-}
-
 .mk-sidebar button:hover {
     background: radial-gradient(circle at left,#535a7e,#0e101b 100%);
     color: #e1e2eb;
