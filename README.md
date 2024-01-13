@@ -11,3 +11,6 @@ i wanted to make a theme following a colorscheme i made (i haven't uploaded that
 
 ## roadmap
 will add some small custom styling here and there for some plugins i use, and will add better mobile support
+
+## acknowledgements
+big thanks to [ono sendai](https://github.com/cannibalox/ono-sendai_obsdn) theme for the translucency css
