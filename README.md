@@ -1,7 +1,7 @@
 # slater
 a pretty (translucent!) theme for obsidian
 
-![img](https://preview.redd.it/guivppy4mxbc1.png?width=1920&format=png&auto=webp&s=360de970ab1b5860cd3d74ad9e0dfa2a2ad6b55d)
+![img.png](https://preview.redd.it/guivppy4mxbc1.png?width=1920&format=png&auto=webp&s=360de970ab1b5860cd3d74ad9e0dfa2a2ad6b55d)
 
 ## installation
 simple place slater.css in your .obsidian/themes folder and load it :)
